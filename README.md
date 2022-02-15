@@ -10,4 +10,4 @@ Projeto de Engenharia de Requisitos elaborado por Nhian Ribeiro como parte do pr
 
 ## O Desafio
 
-Apresentação dos artefatos Relatório de Participação, Proposta Técnica, Produto Backlog e Histórias de Usuário.
+Apresentação dos artefatos Relatório de Participação, Documento de Visão, Produto Backlog e Histórias de Usuário.
